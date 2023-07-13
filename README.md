@@ -1,3 +1,2 @@
 # Curso_js_ada
-
-Curso pertencente a trilha IFOOD | Back-End | Ada
+Práticas do curso de JavaScript: Trilha IFOOD | Back-End | Ada.
